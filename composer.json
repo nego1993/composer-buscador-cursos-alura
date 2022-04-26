@@ -1,6 +1,6 @@
 {
     "name": "nego1993/buscador-certificados",
-    "description": "Projeto para buscar meus certificados no site da Alura",
+    "description": "Projeto para buscar cursos PHP no site da Alura",
     "type": "library",
     "autoload": {
         "psr-4": {
